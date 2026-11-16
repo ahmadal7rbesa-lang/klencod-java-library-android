@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مكتبتي</string>
+    <string name="save_label">حفظ في مكتبتي</string>
+    <string name="saved">✓ انحفظ في مكتبتي</string>
+    <string name="pick_file">اختر ملف نصي</string>
+</resources>
